@@ -1,0 +1,774 @@
+﻿Author,Departments,Findings,Rating,Risk,Risk Category,Status,Age (Weeks)
+Auditor 1,Accounting,Sample Finding 1,High,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,7
+Auditor 3,Accounting,Sample Finding 2,Low,Privacy,Regulatory Compliance,Open,4
+Auditor 1,Accounting,Sample Finding 3,Low,Personal trading,Employee Conduct,Open,4
+Auditor 4,Accounting,Sample Finding 4,High,Insider trading – confidential client information,Employee Conduct,Open,8
+Auditor 4,Accounting,Sample Finding 5,Low,Training,Training,Open,3
+Auditor 3,Accounting,Sample Finding 6,Low,Training,Training,Open,4
+Auditor 2,Accounting,Sample Finding 7,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Closed,
+Auditor 4,Accounting,Sample Finding 8,Medium,Privacy,Regulatory Compliance,Closed,
+Auditor 1,Accounting,Sample Finding 9,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 4,Accounting,Sample Finding 10,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,5
+Auditor 3,Accounting,Sample Finding 11,Low,Privacy,Regulatory Compliance,Closed,
+Auditor 1,Accounting,Sample Finding 12,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,5
+Auditor 3,Accounting,Sample Finding 13,Low,Personal conflicts of interest,Employee Conduct,Open,4
+Auditor 1,Accounting,Sample Finding 14,Medium,Personal trading,Employee Conduct,Closed,
+Auditor 4,Accounting,Sample Finding 15,Low,Insider trading – confidential firm information,Employee Conduct,Open,6
+Auditor 3,Accounting,Sample Finding 16,Low,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 1,Accounting,Sample Finding 17,Low,Personal trading,Employee Conduct,Open,9
+Auditor 2,Accounting,Sample Finding 18,Low,Insider trading – confidential firm information,Employee Conduct,Open,7
+Auditor 2,Accounting,Sample Finding 19,Low,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 1,Accounting,Sample Finding 20,Low,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 1,Accounting,Sample Finding 21,Medium,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 3,Accounting,Sample Finding 22,Low,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 1,Accounting,Sample Finding 23,Medium,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,8
+Auditor 2,Accounting,Sample Finding 24,High,Privacy,Regulatory Compliance,Open,5
+Auditor 4,Accounting,Sample Finding 25,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,5
+Auditor 2,Accounting,Sample Finding 26,Low,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 3,Accounting,Sample Finding 27,Low,Insider trading – confidential firm information,Employee Conduct,Open,7
+Auditor 2,Accounting,Sample Finding 28,Low,Training,Training,Closed,
+Auditor 2,Accounting,Sample Finding 29,Low,Training,Training,Open,6
+Auditor 3,Accounting,Sample Finding 30,Medium,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,5
+Auditor 2,Accounting,Sample Finding 31,Medium,Privacy,Regulatory Compliance,Open,8
+Auditor 2,Accounting,Sample Finding 32,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,8
+Auditor 3,Accounting,Sample Finding 33,Medium,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,6
+Auditor 2,Accounting,Sample Finding 34,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,7
+Auditor 1,Accounting,Sample Finding 35,Low,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 1,Accounting,Sample Finding 36,Medium,Personal conflicts of interest,Employee Conduct,Open,3
+Auditor 2,Accounting,Sample Finding 37,Low,Personal trading,Employee Conduct,Open,9
+Auditor 1,Accounting,Sample Finding 38,Low,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 3,Accounting,Sample Finding 39,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 1,Accounting,Sample Finding 40,Low,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 4,Accounting,Sample Finding 41,Medium,Personal conflicts of interest,Employee Conduct,Open,5
+Auditor 3,Accounting,Sample Finding 42,Low,Personal trading,Employee Conduct,Open,7
+Auditor 2,Accounting,Sample Finding 43,Medium,Insider trading – confidential firm information,Employee Conduct,Open,7
+Auditor 2,Accounting,Sample Finding 44,Medium,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 2,Accounting,Sample Finding 45,Low,Insider trading – confidential firm information,Employee Conduct,Open,5
+Auditor 3,Administration,Sample Finding 46,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,6
+Auditor 1,Administration,Sample Finding 47,Low,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 3,Administration,Sample Finding 48,Medium,Personal conflicts of interest,Employee Conduct,Open,6
+Auditor 3,Administration,Sample Finding 49,High,Personal trading,Employee Conduct,Open,9
+Auditor 4,Administration,Sample Finding 50,Low,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 2,Administration,Sample Finding 51,Medium,Insider trading – confidential client information,Employee Conduct,Open,8
+Auditor 2,Administration,Sample Finding 52,High,Whistleblower non-retaliation,Regulatory Compliance,Open,4
+Auditor 2,Administration,Sample Finding 53,Low,Privacy,Regulatory Compliance,Open,7
+Auditor 2,Administration,Sample Finding 54,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,8
+Auditor 4,Administration,Sample Finding 55,Medium,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 4,Administration,Sample Finding 56,Low,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 3,Administration,Sample Finding 57,Low,Personal trading,Employee Conduct,Open,5
+Auditor 4,Administration,Sample Finding 58,Low,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 1,Administration,Sample Finding 59,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 3,Administration,Sample Finding 60,Medium,Insider trading – confidential firm information,Employee Conduct,Open,6
+Auditor 3,Administration,Sample Finding 61,Low,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 3,Administration,Sample Finding 62,Medium,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 2,Administration,Sample Finding 63,Medium,Personal trading,Employee Conduct,Open,6
+Auditor 1,Administration,Sample Finding 64,Low,Insider trading – confidential client information,Employee Conduct,Open,8
+Auditor 2,Administration,Sample Finding 65,Medium,Privacy,Regulatory Compliance,Open,9
+Auditor 1,Administration,Sample Finding 66,High,Whistleblower non-retaliation,Regulatory Compliance,Open,4
+Auditor 2,Administration,Sample Finding 67,Low,Anti-bribery and corruption,Employee Conduct,Open,7
+Auditor 1,Administration,Sample Finding 68,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 4,Administration,Sample Finding 69,Medium,Personal trading,Employee Conduct,Open,8
+Auditor 1,Administration,Sample Finding 70,Medium,Insider trading – confidential firm information,Employee Conduct,Open,7
+Auditor 1,Administration,Sample Finding 71,Low,Insider trading – confidential client information,Employee Conduct,Open,3
+Auditor 1,Administration,Sample Finding 72,Low,Training,Training,Open,7
+Auditor 4,Administration,Sample Finding 73,Medium,Training,Training,Open,9
+Auditor 4,Administration,Sample Finding 74,Low,Privacy,Regulatory Compliance,Closed,
+Auditor 1,Administration,Sample Finding 75,Low,Privacy,Regulatory Compliance,Closed,
+Auditor 3,Administration,Sample Finding 76,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 2,Administration,Sample Finding 77,Low,Anti-bribery and corruption,Employee Conduct,Open,9
+Auditor 2,Administration,Sample Finding 78,High,Personal trading,Employee Conduct,Open,3
+Auditor 4,Administration,Sample Finding 79,Low,Insider trading – confidential client information,Employee Conduct,Open,4
+Auditor 3,Administration,Sample Finding 80,Low,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 2,Administration,Sample Finding 81,Medium,Personal conflicts of interest,Employee Conduct,Open,5
+Auditor 4,Administration,Sample Finding 82,Low,Personal trading,Employee Conduct,Closed,
+Auditor 3,Administration,Sample Finding 83,Medium,Insider trading – confidential client information,Employee Conduct,Open,6
+Auditor 3,Administration,Sample Finding 84,Low,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 2,Administration,Sample Finding 85,Medium,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 3,Administration,Sample Finding 86,Medium,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 1,Clearing,Sample Finding 87,Low,Privacy,Regulatory Compliance,Closed,
+Auditor 3,Clearing,Sample Finding 88,High,Improper underwriting activities,Market and Business Conduct,Open,3
+Auditor 3,Clearing,Sample Finding 89,Low,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 1,Clearing,Sample Finding 90,Medium,Mis-selling / Suitability,Client Practices,Open,5
+Auditor 1,Clearing,Sample Finding 91,Medium,Unsound client management,Client Practices,Closed,
+Auditor 1,Clearing,Sample Finding 92,Medium,Improper sales activities,Client Practices,Open,5
+Auditor 2,Clearing,Sample Finding 93,Medium,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 3,Clearing,Sample Finding 94,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 1,Clearing,Sample Finding 95,Low,Personal trading,Employee Conduct,Open,3
+Auditor 3,Clearing,Sample Finding 96,Medium,Insider trading – confidential client information,Employee Conduct,Open,6
+Auditor 3,Clearing,Sample Finding 97,Low,Training,Training,Open,7
+Auditor 1,Clearing,Sample Finding 98,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,9
+Auditor 1,Clearing,Sample Finding 99,High,Business conflicts of interest,Market and Business Conduct,Open,9
+Auditor 2,Clearing,Sample Finding 100,Medium,Improper disclosures to clients,Client Practices,Open,6
+Auditor 1,Clearing,Sample Finding 101,Low,Improper sales activities,Client Practices,Closed,
+Auditor 3,Clearing,Sample Finding 102,Low,Privacy,Regulatory Compliance,Closed,
+Auditor 2,Clearing,Sample Finding 103,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,4
+Auditor 2,Clearing,Sample Finding 104,Medium,Mis-selling / Suitability,Client Practices,Open,6
+Auditor 2,Clearing,Sample Finding 105,Low,Unsound client management,Client Practices,Open,4
+Auditor 1,Clearing,Sample Finding 106,High,Personal trading,Employee Conduct,Closed,
+Auditor 3,Clearing,Sample Finding 107,Low,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 3,Clearing,Sample Finding 108,Low,Personal conflicts of interest,Employee Conduct,Open,6
+Auditor 4,Clearing,Sample Finding 109,Medium,Personal trading,Employee Conduct,Open,8
+Auditor 1,Clearing,Sample Finding 110,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 4,Clearing,Sample Finding 111,Medium,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 4,Clearing,Sample Finding 112,Medium,Privacy,Regulatory Compliance,Open,8
+Auditor 3,Clearing,Sample Finding 113,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,5
+Auditor 3,Clearing,Sample Finding 114,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,8
+Auditor 2,Clearing,Sample Finding 115,Low,Improper underwriting activities,Market and Business Conduct,Closed,
+Auditor 2,Clearing,Sample Finding 116,Medium,Business conflicts of interest,Market and Business Conduct,Open,4
+Auditor 2,Clearing,Sample Finding 117,High,Improper disclosures to clients,Client Practices,Open,3
+Auditor 2,Clearing,Sample Finding 118,Medium,Improper sales activities,Client Practices,Open,9
+Auditor 1,Clearing,Sample Finding 119,High,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 2,Clearing,Sample Finding 120,Medium,Personal conflicts of interest,Employee Conduct,Open,7
+Auditor 3,Clearing,Sample Finding 121,Low,Personal trading,Employee Conduct,Closed,
+Auditor 1,Clearing,Sample Finding 122,Low,Insider trading – confidential client information,Employee Conduct,Open,9
+Auditor 4,Clearing,Sample Finding 123,High,Privacy,Regulatory Compliance,Closed,
+Auditor 1,Clearing,Sample Finding 124,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,4
+Auditor 4,Clearing,Sample Finding 125,Medium,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,7
+Auditor 1,Clearing,Sample Finding 126,Low,Improper underwriting activities,Market and Business Conduct,Closed,
+Auditor 2,Clearing,Sample Finding 127,Low,Business conflicts of interest,Market and Business Conduct,Open,5
+Auditor 3,Clearing,Sample Finding 128,High,Mis-selling / Suitability,Client Practices,Open,5
+Auditor 4,Clearing,Sample Finding 129,Low,Unsound client management,Client Practices,Closed,
+Auditor 1,Clearing,Sample Finding 130,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,5
+Auditor 4,Clearing,Sample Finding 131,High,Mis-selling / Suitability,Client Practices,Closed,
+Auditor 1,Clearing,Sample Finding 132,Low,Improper sales activities,Client Practices,Closed,
+Auditor 4,Clearing,Sample Finding 133,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 4,Clearing,Sample Finding 134,Low,Personal conflicts of interest,Employee Conduct,Open,4
+Auditor 2,Clearing,Sample Finding 135,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 1,Clearing,Sample Finding 136,Medium,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 1,Clearing,Sample Finding 137,Low,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 4,Clearing,Sample Finding 138,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 3,Clearing,Sample Finding 139,Low,Personal trading,Employee Conduct,Open,4
+Auditor 2,Clearing,Sample Finding 140,Medium,Insider trading – confidential client information,Employee Conduct,Open,8
+Auditor 2,Clearing,Sample Finding 141,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 1,Clearing,Sample Finding 142,Medium,Personal conflicts of interest,Employee Conduct,Open,6
+Auditor 3,Clearing,Sample Finding 143,Medium,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 4,Commercial Real Estate,Sample Finding 144,Low,Privacy,Regulatory Compliance,Open,5
+Auditor 1,Commercial Real Estate,Sample Finding 145,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 1,Commercial Real Estate,Sample Finding 146,Medium,Unauthorized transactions / rogue trading,Market and Business Conduct,Open,9
+Auditor 2,Commercial Real Estate,Sample Finding 147,High,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 3,Commercial Real Estate,Sample Finding 148,Medium,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 1,Commercial Real Estate,Sample Finding 149,Medium,Training,Training,Open,5
+Auditor 4,Commercial Real Estate,Sample Finding 150,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,9
+Auditor 3,Commercial Real Estate,Sample Finding 151,Low,Unauthorized transactions / rogue trading,Market and Business Conduct,Open,6
+Auditor 3,Commercial Real Estate,Sample Finding 152,Medium,Unsound client management,Client Practices,Open,7
+Auditor 2,Commercial Real Estate,Sample Finding 153,Low,Personal conflicts of interest,Employee Conduct,Open,7
+Auditor 4,Commercial Real Estate,Sample Finding 154,Medium,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 2,Commercial Real Estate,Sample Finding 155,High,Insider trading – confidential client information,Employee Conduct,Open,3
+Auditor 1,Commercial Real Estate,Sample Finding 156,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 4,Commercial Real Estate,Sample Finding 157,Low,Personal conflicts of interest,Employee Conduct,Open,7
+Auditor 3,Commercial Real Estate,Sample Finding 158,Low,Personal trading,Employee Conduct,Open,8
+Auditor 1,Commercial Real Estate,Sample Finding 159,High,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 3,Commercial Real Estate,Sample Finding 160,Low,Unauthorized transactions / rogue trading,Market and Business Conduct,Open,9
+Auditor 3,Commercial Real Estate,Sample Finding 161,Low,Personal conflicts of interest,Employee Conduct,Open,8
+Auditor 3,Commercial Real Estate,Sample Finding 162,Medium,Personal trading,Employee Conduct,Open,7
+Auditor 1,Commercial Real Estate,Sample Finding 163,Low,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 1,Commercial Real Estate,Sample Finding 164,High,Insider trading – confidential client information,Employee Conduct,Open,7
+Auditor 3,Commercial Real Estate,Sample Finding 165,Low,Training,Training,Open,4
+Auditor 1,Commercial Real Estate,Sample Finding 166,Medium,Training,Training,Open,8
+Auditor 3,Commercial Real Estate,Sample Finding 167,Low,Unsound client management,Client Practices,Open,4
+Auditor 3,Commercial Real Estate,Sample Finding 168,High,Whistleblower non-retaliation,Regulatory Compliance,Open,3
+Auditor 4,Commercial Real Estate,Sample Finding 169,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 4,Commercial Real Estate,Sample Finding 170,High,Personal trading,Employee Conduct,Open,5
+Auditor 2,Commercial Real Estate,Sample Finding 171,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 4,Commercial Real Estate,Sample Finding 172,Medium,Personal trading,Employee Conduct,Closed,
+Auditor 2,Commercial Real Estate,Sample Finding 173,Medium,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 2,Commercial Real Estate,Sample Finding 174,Low,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 2,Commercial Real Estate,Sample Finding 175,Low,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 4,Commercial Real Estate,Sample Finding 176,Medium,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 3,Commercial Real Estate,Sample Finding 177,Low,Personal trading,Employee Conduct,Open,8
+Auditor 2,Commercial Real Estate,Sample Finding 178,Medium,Insider trading – confidential firm information,Employee Conduct,Open,5
+Auditor 1,Corporate Banking,Sample Finding 179,High,Business conflicts of interest,Market and Business Conduct,Open,8
+Auditor 4,Corporate Banking,Sample Finding 180,Low,Unsound client management,Client Practices,Open,9
+Auditor 3,Corporate Banking,Sample Finding 181,Low,Improper sales activities,Client Practices,Open,4
+Auditor 1,Corporate Banking,Sample Finding 182,Low,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 1,Corporate Banking,Sample Finding 183,Low,Training,Training,Closed,
+Auditor 1,Corporate Banking,Sample Finding 184,Medium,Training,Training,Open,6
+Auditor 3,Corporate Banking,Sample Finding 185,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,6
+Auditor 2,Corporate Banking,Sample Finding 186,Medium,Improper underwriting activities,Market and Business Conduct,Open,4
+Auditor 3,Corporate Banking,Sample Finding 187,Medium,Unsound client management,Client Practices,Open,3
+Auditor 4,Corporate Banking,Sample Finding 188,Medium,Improper sales activities,Client Practices,Open,4
+Auditor 3,Corporate Banking,Sample Finding 189,Low,Privacy,Regulatory Compliance,Open,8
+Auditor 4,Corporate Banking,Sample Finding 190,Medium,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,5
+Auditor 3,Corporate Banking,Sample Finding 191,Medium,Improper underwriting activities,Market and Business Conduct,Open,9
+Auditor 4,Corporate Banking,Sample Finding 192,Low,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 4,Corporate Banking,Sample Finding 193,Medium,Improper disclosures to clients,Client Practices,Open,9
+Auditor 4,Corporate Banking,Sample Finding 194,Medium,Unsound client management,Client Practices,Open,3
+Auditor 1,Corporate Banking,Sample Finding 195,Medium,Personal trading,Employee Conduct,Closed,
+Auditor 4,Corporate Banking,Sample Finding 196,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 4,Corporate Banking,Sample Finding 197,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 2,Corporate Banking,Sample Finding 198,Low,Personal conflicts of interest,Employee Conduct,Open,6
+Auditor 1,Corporate Banking,Sample Finding 199,Low,Personal trading,Employee Conduct,Open,4
+Auditor 2,Corporate Banking,Sample Finding 200,High,Insider trading – confidential client information,Employee Conduct,Open,3
+Auditor 1,Corporate Banking,Sample Finding 201,Medium,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 4,Corporate Banking,Sample Finding 202,Low,Personal trading,Employee Conduct,Open,7
+Auditor 2,Corporate Banking,Sample Finding 203,Low,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 3,Corporate Banking,Sample Finding 204,Medium,Privacy,Regulatory Compliance,Closed,
+Auditor 2,Corporate Banking,Sample Finding 205,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,7
+Auditor 3,Corporate Banking,Sample Finding 206,Medium,Business conflicts of interest,Market and Business Conduct,Open,5
+Auditor 1,Corporate Banking,Sample Finding 207,Medium,Mis-selling / Suitability,Client Practices,Open,8
+Auditor 3,Corporate Banking,Sample Finding 208,Low,Improper disclosures to clients,Client Practices,Closed,
+Auditor 2,Corporate Banking,Sample Finding 209,Low,Unsound client management,Client Practices,Closed,
+Auditor 3,Corporate Banking,Sample Finding 210,Low,Improper sales activities,Client Practices,Open,4
+Auditor 2,Corporate Banking,Sample Finding 211,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 2,Corporate Banking,Sample Finding 212,Medium,Insider trading – confidential firm information,Employee Conduct,Open,3
+Auditor 3,Corporate Banking,Sample Finding 213,Low,Privacy,Regulatory Compliance,Open,7
+Auditor 2,Corporate Banking,Sample Finding 214,Medium,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,7
+Auditor 2,Corporate Banking,Sample Finding 215,Medium,Improper underwriting activities,Market and Business Conduct,Open,7
+Auditor 1,Corporate Banking,Sample Finding 216,Low,Business conflicts of interest,Market and Business Conduct,Open,3
+Auditor 2,Corporate Banking,Sample Finding 217,Low,Improper disclosures to clients,Client Practices,Closed,
+Auditor 3,Corporate Banking,Sample Finding 218,Low,Improper sales activities,Client Practices,Open,6
+Auditor 2,Corporate Banking,Sample Finding 219,Low,Business conflicts of interest,Market and Business Conduct,Open,6
+Auditor 3,Corporate Banking,Sample Finding 220,Low,Mis-selling / Suitability,Client Practices,Closed,
+Auditor 2,Corporate Banking,Sample Finding 221,Medium,Unsound client management,Client Practices,Open,6
+Auditor 2,Corporate Banking,Sample Finding 222,Medium,Improper sales activities,Client Practices,Closed,
+Auditor 4,Corporate Banking,Sample Finding 223,Low,Personal trading,Employee Conduct,Open,3
+Auditor 2,Corporate Banking,Sample Finding 224,Medium,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 3,Corporate Banking,Sample Finding 225,Medium,Insider trading – confidential client information,Employee Conduct,Open,4
+Auditor 2,Corporate Banking,Sample Finding 226,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 2,Corporate Banking,Sample Finding 227,Low,Personal trading,Employee Conduct,Open,5
+Auditor 4,Corporate Banking,Sample Finding 228,Medium,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 3,Corporate Banking,Sample Finding 229,Low,Personal trading,Employee Conduct,Closed,
+Auditor 1,Corporate Banking,Sample Finding 230,Medium,Insider trading – confidential firm information,Employee Conduct,Open,4
+Auditor 1,Credit Approval,Sample Finding 231,High,Privacy,Regulatory Compliance,Closed,
+Auditor 1,Credit Approval,Sample Finding 232,Medium,Improper underwriting activities,Market and Business Conduct,Open,4
+Auditor 1,Credit Approval,Sample Finding 233,Low,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 3,Credit Approval,Sample Finding 234,Low,Personal trading,Employee Conduct,Open,5
+Auditor 3,Credit Approval,Sample Finding 235,Low,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 3,Credit Approval,Sample Finding 236,Medium,Training,Training,Closed,
+Auditor 3,Credit Approval,Sample Finding 237,Low,Training,Training,Closed,
+Auditor 3,Credit Approval,Sample Finding 238,Low,Privacy,Regulatory Compliance,Open,7
+Auditor 4,Credit Approval,Sample Finding 239,Medium,Improper underwriting activities,Market and Business Conduct,Closed,
+Auditor 4,Credit Approval,Sample Finding 240,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,9
+Auditor 2,Credit Approval,Sample Finding 241,Medium,Privacy,Regulatory Compliance,Open,5
+Auditor 2,Credit Approval,Sample Finding 242,Low,Improper underwriting activities,Market and Business Conduct,Closed,
+Auditor 3,Credit Approval,Sample Finding 243,Low,Anti-bribery and corruption,Employee Conduct,Open,6
+Auditor 4,Credit Approval,Sample Finding 244,Low,Personal conflicts of interest,Employee Conduct,Open,7
+Auditor 3,Credit Approval,Sample Finding 245,Low,Personal trading,Employee Conduct,Open,8
+Auditor 4,Credit Approval,Sample Finding 246,Low,Anti-bribery and corruption,Employee Conduct,Open,7
+Auditor 2,Credit Approval,Sample Finding 247,Low,Personal trading,Employee Conduct,Open,3
+Auditor 1,Credit Approval,Sample Finding 248,Medium,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 3,Credit Approval,Sample Finding 249,Medium,Insider trading – confidential client information,Employee Conduct,Open,9
+Auditor 1,Credit Approval,Sample Finding 250,Medium,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 4,Credit Approval,Sample Finding 251,Low,Personal conflicts of interest,Employee Conduct,Open,5
+Auditor 3,Credit Approval,Sample Finding 252,Low,Personal trading,Employee Conduct,Closed,
+Auditor 1,Credit Approval,Sample Finding 253,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 4,Credit Approval,Sample Finding 254,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,8
+Auditor 2,Credit Approval,Sample Finding 255,Low,Privacy,Regulatory Compliance,Closed,
+Auditor 2,Credit Approval,Sample Finding 256,Medium,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 3,Credit Approval,Sample Finding 257,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 3,Credit Approval,Sample Finding 258,Low,Insider trading – confidential firm information,Employee Conduct,Open,5
+Auditor 1,Credit Approval,Sample Finding 259,High,Insider trading – confidential client information,Employee Conduct,Open,9
+Auditor 1,Credit Approval,Sample Finding 260,Low,Training,Training,Open,3
+Auditor 1,Credit Approval,Sample Finding 261,Medium,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,5
+Auditor 1,Credit Approval,Sample Finding 262,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,8
+Auditor 4,Credit Approval,Sample Finding 263,High,Improper underwriting activities,Market and Business Conduct,Open,9
+Auditor 2,Credit Approval,Sample Finding 264,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Closed,
+Auditor 2,Credit Approval,Sample Finding 265,Low,Privacy,Regulatory Compliance,Open,7
+Auditor 1,Credit Approval,Sample Finding 266,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,7
+Auditor 2,Credit Approval,Sample Finding 267,High,Improper underwriting activities,Market and Business Conduct,Open,7
+Auditor 1,Credit Approval,Sample Finding 268,Low,Anti-bribery and corruption,Employee Conduct,Open,7
+Auditor 3,Credit Approval,Sample Finding 269,Low,Personal conflicts of interest,Employee Conduct,Open,6
+Auditor 2,Credit Approval,Sample Finding 270,Medium,Personal trading,Employee Conduct,Open,8
+Auditor 4,Credit Approval,Sample Finding 271,Medium,Insider trading – confidential firm information,Employee Conduct,Open,5
+Auditor 2,Credit Approval,Sample Finding 272,Low,Insider trading – confidential client information,Employee Conduct,Open,3
+Auditor 2,Credit Approval,Sample Finding 273,Low,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 2,Credit Approval,Sample Finding 274,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 4,Credit Approval,Sample Finding 275,Low,Insider trading – confidential firm information,Employee Conduct,Open,5
+Auditor 4,Credit Approval,Sample Finding 276,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 4,Credit Approval,Sample Finding 277,Low,Personal conflicts of interest,Employee Conduct,Open,3
+Auditor 1,Credit Management,Sample Finding 278,Medium,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,3
+Auditor 3,Credit Management,Sample Finding 279,Medium,Privacy,Regulatory Compliance,Open,4
+Auditor 4,Credit Management,Sample Finding 280,Low,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 2,Credit Management,Sample Finding 281,Medium,Personal trading,Employee Conduct,Open,3
+Auditor 2,Credit Management,Sample Finding 282,Medium,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 1,Credit Management,Sample Finding 283,Medium,Insider trading – confidential client information,Employee Conduct,Open,8
+Auditor 4,Credit Management,Sample Finding 284,Low,Training,Training,Open,5
+Auditor 3,Credit Management,Sample Finding 285,Low,Training,Training,Open,7
+Auditor 4,Credit Management,Sample Finding 286,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,7
+Auditor 3,Credit Management,Sample Finding 287,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 3,Credit Management,Sample Finding 288,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Closed,
+Auditor 2,Credit Management,Sample Finding 289,Low,Privacy,Regulatory Compliance,Closed,
+Auditor 4,Credit Management,Sample Finding 290,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,4
+Auditor 2,Credit Management,Sample Finding 291,Low,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 3,Credit Management,Sample Finding 292,Low,Personal conflicts of interest,Employee Conduct,Open,4
+Auditor 2,Credit Management,Sample Finding 293,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 4,Credit Management,Sample Finding 294,Low,Insider trading – confidential client information,Employee Conduct,Open,8
+Auditor 4,Credit Management,Sample Finding 295,Low,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 1,Credit Management,Sample Finding 296,Medium,Personal conflicts of interest,Employee Conduct,Open,4
+Auditor 1,Credit Management,Sample Finding 297,Low,Insider trading – confidential firm information,Employee Conduct,Open,6
+Auditor 2,Credit Management,Sample Finding 298,Low,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 1,Credit Management,Sample Finding 299,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,8
+Auditor 3,Credit Management,Sample Finding 300,Low,Privacy,Regulatory Compliance,Open,9
+Auditor 1,Credit Management,Sample Finding 301,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 3,Credit Management,Sample Finding 302,Medium,Personal trading,Employee Conduct,Open,5
+Auditor 4,Credit Management,Sample Finding 303,Low,Insider trading – confidential firm information,Employee Conduct,Open,3
+Auditor 4,Credit Management,Sample Finding 304,Low,Training,Training,Open,9
+Auditor 3,Credit Management,Sample Finding 305,Low,Privacy,Regulatory Compliance,Open,4
+Auditor 2,Credit Management,Sample Finding 306,Medium,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 3,Credit Management,Sample Finding 307,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,5
+Auditor 2,Credit Management,Sample Finding 308,Low,Privacy,Regulatory Compliance,Open,5
+Auditor 2,Credit Management,Sample Finding 309,Low,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 2,Credit Management,Sample Finding 310,Low,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 3,Credit Management,Sample Finding 311,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 4,Credit Management,Sample Finding 312,Low,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 3,Credit Management,Sample Finding 313,Medium,Insider trading – confidential firm information,Employee Conduct,Open,3
+Auditor 3,Credit Management,Sample Finding 314,Medium,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 3,Credit Management,Sample Finding 315,Low,Anti-bribery and corruption,Employee Conduct,Open,6
+Auditor 2,Credit Management,Sample Finding 316,Medium,Personal conflicts of interest,Employee Conduct,Open,8
+Auditor 3,Credit Management,Sample Finding 317,High,Personal trading,Employee Conduct,Closed,
+Auditor 1,Debt Advisory,Sample Finding 318,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 2,Debt Advisory,Sample Finding 319,High,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,4
+Auditor 1,Debt Advisory,Sample Finding 320,High,Improper underwriting activities,Market and Business Conduct,Open,9
+Auditor 1,Debt Advisory,Sample Finding 321,Low,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 3,Debt Advisory,Sample Finding 322,High,Mis-selling / Suitability,Client Practices,Closed,
+Auditor 3,Debt Advisory,Sample Finding 323,Medium,Improper disclosures to clients,Client Practices,Open,4
+Auditor 4,Debt Advisory,Sample Finding 324,Low,Unsound client management,Client Practices,Open,7
+Auditor 4,Debt Advisory,Sample Finding 325,Medium,Improper sales activities,Client Practices,Closed,
+Auditor 3,Debt Advisory,Sample Finding 326,Medium,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 1,Debt Advisory,Sample Finding 327,Low,Personal trading,Employee Conduct,Closed,
+Auditor 3,Debt Advisory,Sample Finding 328,High,Insider trading – confidential firm information,Employee Conduct,Open,7
+Auditor 4,Debt Advisory,Sample Finding 329,Low,Insider trading – confidential client information,Employee Conduct,Open,6
+Auditor 4,Debt Advisory,Sample Finding 330,Low,Training,Training,Closed,
+Auditor 2,Debt Advisory,Sample Finding 331,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,3
+Auditor 3,Debt Advisory,Sample Finding 332,Low,Improper underwriting activities,Market and Business Conduct,Open,6
+Auditor 2,Debt Advisory,Sample Finding 333,Medium,Mis-selling / Suitability,Client Practices,Open,8
+Auditor 1,Debt Advisory,Sample Finding 334,Low,Unsound client management,Client Practices,Closed,
+Auditor 3,Debt Advisory,Sample Finding 335,Low,Improper sales activities,Client Practices,Open,7
+Auditor 4,Debt Advisory,Sample Finding 336,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,6
+Auditor 1,Debt Advisory,Sample Finding 337,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,7
+Auditor 2,Debt Advisory,Sample Finding 338,Medium,Improper underwriting activities,Market and Business Conduct,Open,3
+Auditor 1,Debt Advisory,Sample Finding 339,Medium,Mis-selling / Suitability,Client Practices,Open,6
+Auditor 4,Debt Advisory,Sample Finding 340,Low,Improper disclosures to clients,Client Practices,Closed,
+Auditor 4,Debt Advisory,Sample Finding 341,Low,Unsound client management,Client Practices,Closed,
+Auditor 3,Debt Advisory,Sample Finding 342,Low,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 3,Debt Advisory,Sample Finding 343,High,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 2,Debt Advisory,Sample Finding 344,Low,Insider trading – confidential firm information,Employee Conduct,Open,3
+Auditor 1,Debt Advisory,Sample Finding 345,Medium,Insider trading – confidential client information,Employee Conduct,Open,9
+Auditor 1,Debt Advisory,Sample Finding 346,Low,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 1,Debt Advisory,Sample Finding 347,Low,Personal conflicts of interest,Employee Conduct,Open,6
+Auditor 2,Debt Advisory,Sample Finding 348,Low,Improper underwriting activities,Market and Business Conduct,Open,9
+Auditor 3,Debt Advisory,Sample Finding 349,Low,Business conflicts of interest,Market and Business Conduct,Open,4
+Auditor 4,Debt Advisory,Sample Finding 350,High,Unsound client management,Client Practices,Closed,
+Auditor 4,Debt Advisory,Sample Finding 351,Medium,Improper sales activities,Client Practices,Closed,
+Auditor 3,Debt Advisory,Sample Finding 352,Medium,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 1,Debt Advisory,Sample Finding 353,Medium,Personal conflicts of interest,Employee Conduct,Open,7
+Auditor 4,Debt Advisory,Sample Finding 354,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 1,Debt Advisory,Sample Finding 355,High,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 2,Debt Advisory,Sample Finding 356,Low,Privacy,Regulatory Compliance,Open,8
+Auditor 2,Debt Advisory,Sample Finding 357,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,6
+Auditor 3,Debt Advisory,Sample Finding 358,Low,Improper underwriting activities,Market and Business Conduct,Closed,
+Auditor 1,Debt Advisory,Sample Finding 359,Medium,Mis-selling / Suitability,Client Practices,Open,7
+Auditor 4,Debt Advisory,Sample Finding 360,Low,Improper disclosures to clients,Client Practices,Open,4
+Auditor 2,Debt Advisory,Sample Finding 361,Low,Unsound client management,Client Practices,Open,3
+Auditor 1,Debt Advisory,Sample Finding 362,Medium,Improper sales activities,Client Practices,Closed,
+Auditor 4,Debt Advisory,Sample Finding 363,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,8
+Auditor 3,Debt Advisory,Sample Finding 364,Low,Improper underwriting activities,Market and Business Conduct,Closed,
+Auditor 4,Debt Advisory,Sample Finding 365,High,Mis-selling / Suitability,Client Practices,Open,8
+Auditor 3,Debt Advisory,Sample Finding 366,Low,Improper sales activities,Client Practices,Closed,
+Auditor 1,Debt Advisory,Sample Finding 367,Medium,Anti-bribery and corruption,Employee Conduct,Open,7
+Auditor 4,Debt Advisory,Sample Finding 368,Medium,Personal trading,Employee Conduct,Closed,
+Auditor 2,Debt Advisory,Sample Finding 369,High,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 3,Debt Advisory,Sample Finding 370,Low,Insider trading – confidential client information,Employee Conduct,Open,5
+Auditor 2,Debt Advisory,Sample Finding 371,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 1,Debt Advisory,Sample Finding 372,Low,Insider trading – confidential firm information,Employee Conduct,Open,3
+Auditor 2,Debt Advisory,Sample Finding 373,Low,Anti-bribery and corruption,Employee Conduct,Open,9
+Auditor 1,Debt Advisory,Sample Finding 374,Low,Personal trading,Employee Conduct,Closed,
+Auditor 2,Debt Advisory,Sample Finding 375,Low,Insider trading – confidential firm information,Employee Conduct,Open,5
+Auditor 2,Debt Advisory,Sample Finding 376,High,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 1,FI & Syndications,Sample Finding 377,Low,Privacy,Regulatory Compliance,Open,5
+Auditor 1,FI & Syndications,Sample Finding 378,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,3
+Auditor 4,FI & Syndications,Sample Finding 379,Medium,Business conflicts of interest,Market and Business Conduct,Open,6
+Auditor 1,FI & Syndications,Sample Finding 380,Low,Mis-selling / Suitability,Client Practices,Closed,
+Auditor 4,FI & Syndications,Sample Finding 381,Low,Improper disclosures to clients,Client Practices,Open,7
+Auditor 1,FI & Syndications,Sample Finding 382,Medium,Unsound client management,Client Practices,Open,7
+Auditor 1,FI & Syndications,Sample Finding 383,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 2,FI & Syndications,Sample Finding 384,Low,Personal trading,Employee Conduct,Open,9
+Auditor 3,FI & Syndications,Sample Finding 385,Low,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 4,FI & Syndications,Sample Finding 386,Low,Training,Training,Open,7
+Auditor 2,FI & Syndications,Sample Finding 387,Medium,Training,Training,Open,9
+Auditor 4,FI & Syndications,Sample Finding 388,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 3,FI & Syndications,Sample Finding 389,Low,Improper underwriting activities,Market and Business Conduct,Open,8
+Auditor 4,FI & Syndications,Sample Finding 390,Medium,Business conflicts of interest,Market and Business Conduct,Open,3
+Auditor 1,FI & Syndications,Sample Finding 391,Low,Mis-selling / Suitability,Client Practices,Open,4
+Auditor 3,FI & Syndications,Sample Finding 392,Low,Improper disclosures to clients,Client Practices,Closed,
+Auditor 1,FI & Syndications,Sample Finding 393,Low,Improper sales activities,Client Practices,Open,6
+Auditor 1,FI & Syndications,Sample Finding 394,Medium,Privacy,Regulatory Compliance,Open,5
+Auditor 4,FI & Syndications,Sample Finding 395,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 2,FI & Syndications,Sample Finding 396,Medium,Improper underwriting activities,Market and Business Conduct,Open,4
+Auditor 4,FI & Syndications,Sample Finding 397,Low,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 3,FI & Syndications,Sample Finding 398,Low,Mis-selling / Suitability,Client Practices,Open,5
+Auditor 1,FI & Syndications,Sample Finding 399,Low,Improper disclosures to clients,Client Practices,Open,6
+Auditor 2,FI & Syndications,Sample Finding 400,Low,Improper sales activities,Client Practices,Open,6
+Auditor 3,FI & Syndications,Sample Finding 401,Medium,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 3,FI & Syndications,Sample Finding 402,High,Personal trading,Employee Conduct,Closed,
+Auditor 1,FI & Syndications,Sample Finding 403,Medium,Insider trading – confidential client information,Employee Conduct,Open,4
+Auditor 3,FI & Syndications,Sample Finding 404,Low,Anti-bribery and corruption,Employee Conduct,Open,7
+Auditor 1,FI & Syndications,Sample Finding 405,Low,Personal conflicts of interest,Employee Conduct,Open,6
+Auditor 1,FI & Syndications,Sample Finding 406,Low,Personal trading,Employee Conduct,Open,4
+Auditor 1,FI & Syndications,Sample Finding 407,Low,Insider trading – confidential firm information,Employee Conduct,Open,6
+Auditor 3,FI & Syndications,Sample Finding 408,Medium,Insider trading – confidential client information,Employee Conduct,Open,4
+Auditor 1,FI & Syndications,Sample Finding 409,Low,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 4,FI & Syndications,Sample Finding 410,Low,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 4,FI & Syndications,Sample Finding 411,High,Personal trading,Employee Conduct,Open,8
+Auditor 2,FI & Syndications,Sample Finding 412,Low,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 4,FI & Syndications,Sample Finding 413,Low,Insider trading – confidential client information,Employee Conduct,Open,7
+Auditor 4,FI & Syndications,Sample Finding 414,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,9
+Auditor 1,FI & Syndications,Sample Finding 415,Low,Improper underwriting activities,Market and Business Conduct,Open,3
+Auditor 4,FI & Syndications,Sample Finding 416,Medium,Business conflicts of interest,Market and Business Conduct,Open,7
+Auditor 3,FI & Syndications,Sample Finding 417,Medium,Improper disclosures to clients,Client Practices,Closed,
+Auditor 4,FI & Syndications,Sample Finding 418,Low,Unsound client management,Client Practices,Open,5
+Auditor 3,FI & Syndications,Sample Finding 419,Low,Personal conflicts of interest,Employee Conduct,Open,8
+Auditor 4,FI & Syndications,Sample Finding 420,Low,Personal trading,Employee Conduct,Open,6
+Auditor 3,FI & Syndications,Sample Finding 421,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 3,FI & Syndications,Sample Finding 422,High,Training,Training,Open,3
+Auditor 1,FI & Syndications,Sample Finding 423,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,7
+Auditor 1,FI & Syndications,Sample Finding 424,Low,Improper underwriting activities,Market and Business Conduct,Closed,
+Auditor 3,FI & Syndications,Sample Finding 425,High,Improper disclosures to clients,Client Practices,Open,8
+Auditor 4,FI & Syndications,Sample Finding 426,Low,Unsound client management,Client Practices,Closed,
+Auditor 2,FI & Syndications,Sample Finding 427,Low,Improper sales activities,Client Practices,Open,4
+Auditor 4,FI & Syndications,Sample Finding 428,Medium,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 2,FI & Syndications,Sample Finding 429,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,3
+Auditor 2,FI & Syndications,Sample Finding 430,Medium,Business conflicts of interest,Market and Business Conduct,Open,7
+Auditor 2,FI & Syndications,Sample Finding 431,Low,Mis-selling / Suitability,Client Practices,Open,4
+Auditor 3,FI & Syndications,Sample Finding 432,Medium,Unsound client management,Client Practices,Open,6
+Auditor 2,FI & Syndications,Sample Finding 433,Medium,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 1,FI & Syndications,Sample Finding 434,Medium,Insider trading – confidential client information,Employee Conduct,Open,4
+Auditor 2,FI & Syndications,Sample Finding 435,Medium,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 4,FI & Syndications,Sample Finding 436,Medium,Personal trading,Employee Conduct,Closed,
+Auditor 4,FI & Syndications,Sample Finding 437,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 1,FI & Syndications,Sample Finding 438,High,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 3,FI & Syndications,Sample Finding 439,Medium,Personal trading,Employee Conduct,Open,3
+Auditor 4,HR,Sample Finding 440,Low,Privacy,Regulatory Compliance,Open,5
+Auditor 2,HR,Sample Finding 441,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 4,HR,Sample Finding 442,Low,Anti-bribery and corruption,Employee Conduct,Open,9
+Auditor 3,HR,Sample Finding 443,Low,Personal trading,Employee Conduct,Open,5
+Auditor 3,HR,Sample Finding 444,Medium,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 1,HR,Sample Finding 445,Low,Training,Training,Closed,
+Auditor 4,HR,Sample Finding 446,Low,Training,Training,Open,6
+Auditor 4,HR,Sample Finding 447,Low,Privacy,Regulatory Compliance,Open,9
+Auditor 1,HR,Sample Finding 448,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,7
+Auditor 2,HR,Sample Finding 449,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,4
+Auditor 3,HR,Sample Finding 450,Low,Anti-bribery and corruption,Employee Conduct,Open,9
+Auditor 3,HR,Sample Finding 451,Low,Personal trading,Employee Conduct,Open,9
+Auditor 2,HR,Sample Finding 452,Low,Insider trading – confidential firm information,Employee Conduct,Open,4
+Auditor 3,HR,Sample Finding 453,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 4,HR,Sample Finding 454,Low,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 2,HR,Sample Finding 455,Medium,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 3,HR,Sample Finding 456,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,4
+Auditor 3,HR,Sample Finding 457,Low,Anti-bribery and corruption,Employee Conduct,Open,9
+Auditor 1,HR,Sample Finding 458,Low,Personal conflicts of interest,Employee Conduct,Open,5
+Auditor 2,HR,Sample Finding 459,Low,Personal trading,Employee Conduct,Open,3
+Auditor 1,HR,Sample Finding 460,Low,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 2,HR,Sample Finding 461,Medium,Training,Training,Open,6
+Auditor 3,HR,Sample Finding 462,Medium,Training,Training,Closed,
+Auditor 3,HR,Sample Finding 463,Medium,Privacy,Regulatory Compliance,Open,5
+Auditor 3,HR,Sample Finding 464,Medium,Privacy,Regulatory Compliance,Open,3
+Auditor 1,HR,Sample Finding 465,Medium,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 1,HR,Sample Finding 466,Low,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 2,HR,Sample Finding 467,High,Personal conflicts of interest,Employee Conduct,Open,7
+Auditor 3,HR,Sample Finding 468,Medium,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 2,HR,Sample Finding 469,Medium,Personal conflicts of interest,Employee Conduct,Open,4
+Auditor 3,HR,Sample Finding 470,Medium,Insider trading – confidential firm information,Employee Conduct,Open,4
+Auditor 3,HR,Sample Finding 471,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 1,HR,Sample Finding 472,Low,Anti-bribery and corruption,Employee Conduct,Open,9
+Auditor 4,HR,Sample Finding 473,Medium,Personal conflicts of interest,Employee Conduct,Open,7
+Auditor 2,HR,Sample Finding 474,High,Personal trading,Employee Conduct,Closed,
+Auditor 4,IT,Sample Finding 475,Medium,Privacy,Regulatory Compliance,Closed,
+Auditor 3,IT,Sample Finding 476,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 4,IT,Sample Finding 477,Low,Personal trading,Employee Conduct,Open,6
+Auditor 2,IT,Sample Finding 478,Low,Insider trading – confidential client information,Employee Conduct,Open,4
+Auditor 2,IT,Sample Finding 479,Low,Privacy,Regulatory Compliance,Open,8
+Auditor 1,IT,Sample Finding 480,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 2,IT,Sample Finding 481,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,8
+Auditor 2,IT,Sample Finding 482,Low,Privacy,Regulatory Compliance,Open,9
+Auditor 3,IT,Sample Finding 483,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 4,IT,Sample Finding 484,Low,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 4,IT,Sample Finding 485,Medium,Personal conflicts of interest,Employee Conduct,Open,4
+Auditor 4,IT,Sample Finding 486,Low,Personal trading,Employee Conduct,Closed,
+Auditor 3,IT,Sample Finding 487,Medium,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 1,IT,Sample Finding 488,Medium,Insider trading – confidential client information,Employee Conduct,Open,4
+Auditor 2,IT,Sample Finding 489,Medium,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 2,IT,Sample Finding 490,Low,Personal trading,Employee Conduct,Open,4
+Auditor 1,IT,Sample Finding 491,Low,Insider trading – confidential firm information,Employee Conduct,Open,7
+Auditor 4,IT,Sample Finding 492,Low,Anti-bribery and corruption,Employee Conduct,Open,6
+Auditor 4,IT,Sample Finding 493,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 2,IT,Sample Finding 494,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 2,IT,Sample Finding 495,Low,Insider trading – confidential firm information,Employee Conduct,Open,5
+Auditor 4,IT,Sample Finding 496,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 3,IT,Sample Finding 497,Low,Training,Training,Open,3
+Auditor 2,IT,Sample Finding 498,Low,Training,Training,Open,8
+Auditor 2,IT,Sample Finding 499,High,Regulatory reporting and recordkeeping,Regulatory Compliance,Closed,
+Auditor 2,IT,Sample Finding 500,Low,Privacy,Regulatory Compliance,Open,7
+Auditor 1,IT,Sample Finding 501,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,3
+Auditor 4,IT,Sample Finding 502,Medium,Regulatory reporting and recordkeeping,Regulatory Compliance,Open,8
+Auditor 4,IT,Sample Finding 503,Low,Privacy,Regulatory Compliance,Open,9
+Auditor 4,IT,Sample Finding 504,Low,Anti-bribery and corruption,Employee Conduct,Open,7
+Auditor 4,IT,Sample Finding 505,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 4,IT,Sample Finding 506,Medium,Personal trading,Employee Conduct,Open,7
+Auditor 2,IT,Sample Finding 507,Low,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 4,IT,Sample Finding 508,Low,Insider trading – confidential client information,Employee Conduct,Open,8
+Auditor 1,IT,Sample Finding 509,Low,Personal trading,Employee Conduct,Open,5
+Auditor 1,IT,Sample Finding 510,Low,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 1,IT,Sample Finding 511,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 4,IT,Sample Finding 512,Low,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 2,IT,Sample Finding 513,Low,Personal conflicts of interest,Employee Conduct,Open,3
+Auditor 2,IT,Sample Finding 514,High,Personal trading,Employee Conduct,Closed,
+Auditor 2,IT,Sample Finding 515,Low,Insider trading – confidential client information,Employee Conduct,Open,9
+Auditor 4,M&A,Sample Finding 516,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,8
+Auditor 4,M&A,Sample Finding 517,Low,Improper underwriting activities,Market and Business Conduct,Open,7
+Auditor 3,M&A,Sample Finding 518,High,Business conflicts of interest,Market and Business Conduct,Open,8
+Auditor 3,M&A,Sample Finding 519,Medium,Improper disclosures to clients,Client Practices,Open,4
+Auditor 2,M&A,Sample Finding 520,Low,Improper sales activities,Client Practices,Open,9
+Auditor 1,M&A,Sample Finding 521,Medium,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 4,M&A,Sample Finding 522,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 4,M&A,Sample Finding 523,Medium,Personal trading,Employee Conduct,Open,6
+Auditor 2,M&A,Sample Finding 524,Medium,Insider trading – confidential firm information,Employee Conduct,Open,7
+Auditor 1,M&A,Sample Finding 525,Low,Training,Training,Open,8
+Auditor 4,M&A,Sample Finding 526,Low,Training,Training,Open,6
+Auditor 2,M&A,Sample Finding 527,High,Privacy,Regulatory Compliance,Open,9
+Auditor 3,M&A,Sample Finding 528,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,9
+Auditor 3,M&A,Sample Finding 529,Low,Improper underwriting activities,Market and Business Conduct,Open,8
+Auditor 2,M&A,Sample Finding 530,Low,Business conflicts of interest,Market and Business Conduct,Open,4
+Auditor 1,M&A,Sample Finding 531,Low,Improper disclosures to clients,Client Practices,Open,8
+Auditor 1,M&A,Sample Finding 532,Medium,Unsound client management,Client Practices,Closed,
+Auditor 3,M&A,Sample Finding 533,Low,Improper sales activities,Client Practices,Open,4
+Auditor 3,M&A,Sample Finding 534,Low,Privacy,Regulatory Compliance,Closed,
+Auditor 1,M&A,Sample Finding 535,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,9
+Auditor 3,M&A,Sample Finding 536,High,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,7
+Auditor 4,M&A,Sample Finding 537,Medium,Improper underwriting activities,Market and Business Conduct,Closed,
+Auditor 1,M&A,Sample Finding 538,Medium,Mis-selling / Suitability,Client Practices,Open,9
+Auditor 4,M&A,Sample Finding 539,Low,Improper disclosures to clients,Client Practices,Closed,
+Auditor 1,M&A,Sample Finding 540,Medium,Anti-bribery and corruption,Employee Conduct,Open,6
+Auditor 1,M&A,Sample Finding 541,High,Personal trading,Employee Conduct,Closed,
+Auditor 1,M&A,Sample Finding 542,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 4,M&A,Sample Finding 543,High,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 3,M&A,Sample Finding 544,Low,Personal trading,Employee Conduct,Open,9
+Auditor 3,M&A,Sample Finding 545,Low,Insider trading – confidential firm information,Employee Conduct,Open,6
+Auditor 4,M&A,Sample Finding 546,Medium,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 4,M&A,Sample Finding 547,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 2,M&A,Sample Finding 548,High,Personal trading,Employee Conduct,Closed,
+Auditor 4,M&A,Sample Finding 549,High,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 2,M&A,Sample Finding 550,Low,Insider trading – confidential client information,Employee Conduct,Open,6
+Auditor 2,M&A,Sample Finding 551,Medium,Privacy,Regulatory Compliance,Open,3
+Auditor 3,M&A,Sample Finding 552,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,8
+Auditor 1,M&A,Sample Finding 553,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,7
+Auditor 1,M&A,Sample Finding 554,Medium,Improper underwriting activities,Market and Business Conduct,Open,3
+Auditor 2,M&A,Sample Finding 555,Medium,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 3,M&A,Sample Finding 556,Medium,Mis-selling / Suitability,Client Practices,Open,3
+Auditor 2,M&A,Sample Finding 557,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 2,M&A,Sample Finding 558,Medium,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 4,M&A,Sample Finding 559,Low,Personal trading,Employee Conduct,Open,5
+Auditor 2,M&A,Sample Finding 560,Low,Insider trading – confidential firm information,Employee Conduct,Open,7
+Auditor 1,M&A,Sample Finding 561,Medium,Training,Training,Open,9
+Auditor 4,M&A,Sample Finding 562,Medium,Privacy,Regulatory Compliance,Open,9
+Auditor 4,M&A,Sample Finding 563,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,5
+Auditor 1,M&A,Sample Finding 564,Low,Business conflicts of interest,Market and Business Conduct,Open,5
+Auditor 2,M&A,Sample Finding 565,Low,Improper disclosures to clients,Client Practices,Open,5
+Auditor 2,M&A,Sample Finding 566,High,Improper sales activities,Client Practices,Closed,
+Auditor 3,M&A,Sample Finding 567,High,Privacy,Regulatory Compliance,Closed,
+Auditor 1,M&A,Sample Finding 568,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,7
+Auditor 4,M&A,Sample Finding 569,Medium,Market manipulation / anti-competitive practices,Market and Business Conduct,Closed,
+Auditor 3,M&A,Sample Finding 570,Low,Improper underwriting activities,Market and Business Conduct,Open,4
+Auditor 3,M&A,Sample Finding 571,Medium,Mis-selling / Suitability,Client Practices,Open,9
+Auditor 2,M&A,Sample Finding 572,Low,Improper disclosures to clients,Client Practices,Open,4
+Auditor 3,M&A,Sample Finding 573,Medium,Anti-bribery and corruption,Employee Conduct,Open,7
+Auditor 4,M&A,Sample Finding 574,Low,Personal conflicts of interest,Employee Conduct,Open,3
+Auditor 1,M&A,Sample Finding 575,Low,Insider trading – confidential client information,Employee Conduct,Open,9
+Auditor 4,M&A,Sample Finding 576,Low,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 4,M&A,Sample Finding 577,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 1,M&A,Sample Finding 578,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 3,M&A,Sample Finding 579,Low,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 3,M&A,Sample Finding 580,Low,Personal trading,Employee Conduct,Closed,
+Auditor 1,M&A,Sample Finding 581,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 1,M&A,Sample Finding 582,Low,Insider trading – confidential client information,Employee Conduct,Open,7
+Auditor 3,Project Finance,Sample Finding 583,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,9
+Auditor 2,Project Finance,Sample Finding 584,Low,Improper underwriting activities,Market and Business Conduct,Open,9
+Auditor 2,Project Finance,Sample Finding 585,Low,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 3,Project Finance,Sample Finding 586,Low,Mis-selling / Suitability,Client Practices,Closed,
+Auditor 1,Project Finance,Sample Finding 587,Medium,Improper sales activities,Client Practices,Open,3
+Auditor 2,Project Finance,Sample Finding 588,Low,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 2,Project Finance,Sample Finding 589,Medium,Personal trading,Employee Conduct,Open,3
+Auditor 3,Project Finance,Sample Finding 590,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 1,Project Finance,Sample Finding 591,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 4,Project Finance,Sample Finding 592,Low,Training,Training,Open,9
+Auditor 1,Project Finance,Sample Finding 593,Low,Privacy,Regulatory Compliance,Open,4
+Auditor 2,Project Finance,Sample Finding 594,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,3
+Auditor 3,Project Finance,Sample Finding 595,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Closed,
+Auditor 4,Project Finance,Sample Finding 596,High,Improper underwriting activities,Market and Business Conduct,Open,6
+Auditor 1,Project Finance,Sample Finding 597,Low,Improper disclosures to clients,Client Practices,Open,8
+Auditor 2,Project Finance,Sample Finding 598,Low,Unsound client management,Client Practices,Open,7
+Auditor 4,Project Finance,Sample Finding 599,Low,Improper sales activities,Client Practices,Open,7
+Auditor 1,Project Finance,Sample Finding 600,High,Whistleblower non-retaliation,Regulatory Compliance,Open,3
+Auditor 3,Project Finance,Sample Finding 601,High,Market manipulation / anti-competitive practices,Market and Business Conduct,Open,8
+Auditor 3,Project Finance,Sample Finding 602,Low,Improper underwriting activities,Market and Business Conduct,Open,6
+Auditor 3,Project Finance,Sample Finding 603,Low,Business conflicts of interest,Market and Business Conduct,Open,8
+Auditor 4,Project Finance,Sample Finding 604,Low,Mis-selling / Suitability,Client Practices,Open,6
+Auditor 2,Project Finance,Sample Finding 605,Medium,Unsound client management,Client Practices,Open,7
+Auditor 4,Project Finance,Sample Finding 606,High,Improper sales activities,Client Practices,Open,9
+Auditor 1,Project Finance,Sample Finding 607,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 1,Project Finance,Sample Finding 608,Low,Personal conflicts of interest,Employee Conduct,Open,7
+Auditor 4,Project Finance,Sample Finding 609,Low,Personal trading,Employee Conduct,Open,7
+Auditor 2,Project Finance,Sample Finding 610,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 1,Project Finance,Sample Finding 611,Medium,Insider trading – confidential client information,Employee Conduct,Open,8
+Auditor 2,Project Finance,Sample Finding 612,Low,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 3,Project Finance,Sample Finding 613,Low,Personal conflicts of interest,Employee Conduct,Open,8
+Auditor 1,Project Finance,Sample Finding 614,Low,Personal trading,Employee Conduct,Open,8
+Auditor 1,Project Finance,Sample Finding 615,Medium,Insider trading – confidential firm information,Employee Conduct,Open,4
+Auditor 2,Project Finance,Sample Finding 616,Low,Personal trading,Employee Conduct,Open,9
+Auditor 1,Project Finance,Sample Finding 617,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 4,Project Finance,Sample Finding 618,High,Insider trading – confidential client information,Employee Conduct,Open,3
+Auditor 2,Project Finance,Sample Finding 619,Medium,Privacy,Regulatory Compliance,Open,3
+Auditor 3,Project Finance,Sample Finding 620,Medium,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 3,Project Finance,Sample Finding 621,High,Improper underwriting activities,Market and Business Conduct,Open,3
+Auditor 3,Project Finance,Sample Finding 622,Low,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 1,Project Finance,Sample Finding 623,Low,Mis-selling / Suitability,Client Practices,Open,3
+Auditor 1,Project Finance,Sample Finding 624,Low,Improper disclosures to clients,Client Practices,Open,9
+Auditor 3,Project Finance,Sample Finding 625,Low,Improper sales activities,Client Practices,Open,5
+Auditor 4,Project Finance,Sample Finding 626,Low,Personal conflicts of interest,Employee Conduct,Open,8
+Auditor 4,Project Finance,Sample Finding 627,Low,Personal trading,Employee Conduct,Open,8
+Auditor 2,Project Finance,Sample Finding 628,Low,Insider trading – confidential firm information,Employee Conduct,Open,5
+Auditor 2,Project Finance,Sample Finding 629,Low,Training,Training,Closed,
+Auditor 3,Project Finance,Sample Finding 630,Medium,Privacy,Regulatory Compliance,Open,8
+Auditor 4,Project Finance,Sample Finding 631,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,4
+Auditor 3,Project Finance,Sample Finding 632,Low,Mis-selling / Suitability,Client Practices,Open,5
+Auditor 3,Project Finance,Sample Finding 633,Low,Improper disclosures to clients,Client Practices,Closed,
+Auditor 4,Project Finance,Sample Finding 634,Low,Improper sales activities,Client Practices,Open,7
+Auditor 2,Project Finance,Sample Finding 635,Medium,Privacy,Regulatory Compliance,Open,6
+Auditor 2,Project Finance,Sample Finding 636,Low,Market manipulation / anti-competitive practices,Market and Business Conduct,Closed,
+Auditor 4,Project Finance,Sample Finding 637,Low,Business conflicts of interest,Market and Business Conduct,Open,6
+Auditor 1,Project Finance,Sample Finding 638,Medium,Improper disclosures to clients,Client Practices,Open,9
+Auditor 1,Project Finance,Sample Finding 639,Low,Improper sales activities,Client Practices,Open,7
+Auditor 1,Project Finance,Sample Finding 640,Low,Personal trading,Employee Conduct,Open,9
+Auditor 4,Project Finance,Sample Finding 641,High,Anti-bribery and corruption,Employee Conduct,Open,9
+Auditor 1,Project Finance,Sample Finding 642,Medium,Personal conflicts of interest,Employee Conduct,Open,5
+Auditor 3,Project Finance,Sample Finding 643,Medium,Personal trading,Employee Conduct,Open,4
+Auditor 3,Project Finance,Sample Finding 644,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 3,Project Finance,Sample Finding 645,Medium,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 3,Project Finance,Sample Finding 646,Low,Personal trading,Employee Conduct,Closed,
+Auditor 2,Project Finance,Sample Finding 647,Low,Insider trading – confidential client information,Employee Conduct,Open,3
+Auditor 1,Risk Management,Sample Finding 648,High,Privacy,Regulatory Compliance,Open,6
+Auditor 3,Risk Management,Sample Finding 649,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 1,Risk Management,Sample Finding 650,Low,Personal conflicts of interest,Employee Conduct,Open,4
+Auditor 3,Risk Management,Sample Finding 651,High,Personal trading,Employee Conduct,Closed,
+Auditor 1,Risk Management,Sample Finding 652,Low,Insider trading – confidential firm information,Employee Conduct,Open,5
+Auditor 1,Risk Management,Sample Finding 653,Low,Insider trading – confidential client information,Employee Conduct,Open,3
+Auditor 2,Risk Management,Sample Finding 654,Medium,Training,Training,Closed,
+Auditor 4,Risk Management,Sample Finding 655,Low,Regulatory reporting and recordkeeping,Regulatory Compliance,Closed,
+Auditor 1,Risk Management,Sample Finding 656,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,4
+Auditor 2,Risk Management,Sample Finding 657,Medium,Regulatory reporting and recordkeeping,Regulatory Compliance,Closed,
+Auditor 2,Risk Management,Sample Finding 658,Medium,Privacy,Regulatory Compliance,Open,3
+Auditor 4,Risk Management,Sample Finding 659,Low,Anti-bribery and corruption,Employee Conduct,Open,7
+Auditor 4,Risk Management,Sample Finding 660,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 4,Risk Management,Sample Finding 661,Low,Personal trading,Employee Conduct,Open,6
+Auditor 1,Risk Management,Sample Finding 662,Low,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 2,Risk Management,Sample Finding 663,Medium,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 3,Risk Management,Sample Finding 664,Low,Personal trading,Employee Conduct,Open,6
+Auditor 2,Risk Management,Sample Finding 665,Low,Insider trading – confidential firm information,Employee Conduct,Open,4
+Auditor 3,Risk Management,Sample Finding 666,Medium,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 3,Risk Management,Sample Finding 667,Low,Personal conflicts of interest,Employee Conduct,Open,8
+Auditor 4,Risk Management,Sample Finding 668,Medium,Insider trading – confidential client information,Employee Conduct,Open,7
+Auditor 1,Risk Management,Sample Finding 669,Low,Privacy,Regulatory Compliance,Open,5
+Auditor 2,Risk Management,Sample Finding 670,Low,Anti-bribery and corruption,Employee Conduct,Open,9
+Auditor 3,Risk Management,Sample Finding 671,Low,Personal conflicts of interest,Employee Conduct,Open,8
+Auditor 1,Risk Management,Sample Finding 672,Low,Personal trading,Employee Conduct,Open,7
+Auditor 4,Risk Management,Sample Finding 673,Medium,Training,Training,Closed,
+Auditor 3,Risk Management,Sample Finding 674,Low,Training,Training,Closed,
+Auditor 3,Risk Management,Sample Finding 675,Medium,Privacy,Regulatory Compliance,Open,6
+Auditor 4,Risk Management,Sample Finding 676,Medium,Whistleblower non-retaliation,Regulatory Compliance,Open,8
+Auditor 3,Risk Management,Sample Finding 677,Medium,Personal conflicts of interest,Employee Conduct,Open,8
+Auditor 4,Risk Management,Sample Finding 678,Low,Personal trading,Employee Conduct,Open,8
+Auditor 2,Risk Management,Sample Finding 679,Low,Insider trading – confidential firm information,Employee Conduct,Open,6
+Auditor 1,Risk Management,Sample Finding 680,Low,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 3,Risk Management,Sample Finding 681,Low,Personal conflicts of interest,Employee Conduct,Open,5
+Auditor 4,Risk Management,Sample Finding 682,Low,Insider trading – confidential firm information,Employee Conduct,Open,6
+Auditor 3,Risk Management,Sample Finding 683,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 2,Risk Management,Sample Finding 684,High,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 2,Risk Management,Sample Finding 685,Low,Personal conflicts of interest,Employee Conduct,Open,3
+Auditor 1,Risk Management,Sample Finding 686,Low,Personal trading,Employee Conduct,Open,8
+Auditor 2,Risk Management,Sample Finding 687,Medium,Insider trading – confidential client information,Employee Conduct,Open,7
+Auditor 4,Trade Finance,Sample Finding 688,Medium,Unauthorized transactions / rogue trading,Market and Business Conduct,Open,9
+Auditor 3,Trade Finance,Sample Finding 689,Low,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 2,Trade Finance,Sample Finding 690,Low,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 1,Trade Finance,Sample Finding 691,Low,Training,Training,Open,9
+Auditor 2,Trade Finance,Sample Finding 692,Low,Training,Training,Closed,
+Auditor 3,Trade Finance,Sample Finding 693,Low,Privacy,Regulatory Compliance,Open,4
+Auditor 2,Trade Finance,Sample Finding 694,Medium,Unauthorized transactions / rogue trading,Market and Business Conduct,Open,6
+Auditor 3,Trade Finance,Sample Finding 695,Low,Privacy,Regulatory Compliance,Open,7
+Auditor 4,Trade Finance,Sample Finding 696,High,Improper disclosures to clients,Client Practices,Closed,
+Auditor 4,Trade Finance,Sample Finding 697,Low,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 4,Trade Finance,Sample Finding 698,Medium,Personal conflicts of interest,Employee Conduct,Open,8
+Auditor 3,Trade Finance,Sample Finding 699,Medium,Insider trading – confidential firm information,Employee Conduct,Open,6
+Auditor 1,Trade Finance,Sample Finding 700,Low,Insider trading – confidential client information,Employee Conduct,Open,3
+Auditor 2,Trade Finance,Sample Finding 701,Medium,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 4,Trade Finance,Sample Finding 702,Low,Personal conflicts of interest,Employee Conduct,Open,6
+Auditor 1,Trade Finance,Sample Finding 703,Low,Insider trading – confidential firm information,Employee Conduct,Open,8
+Auditor 1,Trade Finance,Sample Finding 704,Medium,Personal trading,Employee Conduct,Open,6
+Auditor 3,Trade Finance,Sample Finding 705,Medium,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 3,Trade Finance,Sample Finding 706,Low,Privacy,Regulatory Compliance,Open,4
+Auditor 3,Trade Finance,Sample Finding 707,Low,Business conflicts of interest,Market and Business Conduct,Open,4
+Auditor 1,Trade Finance,Sample Finding 708,Low,Anti-bribery and corruption,Employee Conduct,Open,5
+Auditor 1,Trade Finance,Sample Finding 709,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 3,Trade Finance,Sample Finding 710,High,Personal trading,Employee Conduct,Closed,
+Auditor 3,Trade Finance,Sample Finding 711,Low,Insider trading – confidential firm information,Employee Conduct,Open,4
+Auditor 2,Trade Finance,Sample Finding 712,Medium,Training,Training,Open,6
+Auditor 2,Trade Finance,Sample Finding 713,Low,Unauthorized transactions / rogue trading,Market and Business Conduct,Open,7
+Auditor 1,Trade Finance,Sample Finding 714,Low,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 1,Trade Finance,Sample Finding 715,High,Anti-bribery and corruption,Employee Conduct,Open,8
+Auditor 3,Trade Finance,Sample Finding 716,Low,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 1,Trade Finance,Sample Finding 717,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 4,Trade Finance,Sample Finding 718,Low,Anti-bribery and corruption,Employee Conduct,Open,3
+Auditor 3,Trade Finance,Sample Finding 719,Low,Personal conflicts of interest,Employee Conduct,Open,5
+Auditor 2,Trade Finance,Sample Finding 720,High,Personal trading,Employee Conduct,Open,4
+Auditor 3,Trade Finance,Sample Finding 721,Low,Insider trading – confidential firm information,Employee Conduct,Open,7
+Auditor 4,Trade Finance,Sample Finding 722,Low,Anti-bribery and corruption,Employee Conduct,Closed,
+Auditor 2,Trade Finance,Sample Finding 723,Low,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 2,Trade Finance,Sample Finding 724,Medium,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 1,Trade Finance,Sample Finding 725,Medium,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 3,Treasury,Sample Finding 726,Low,Privacy,Regulatory Compliance,Open,5
+Auditor 3,Treasury,Sample Finding 727,Low,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 2,Treasury,Sample Finding 728,Low,Improper disclosures to clients,Client Practices,Open,4
+Auditor 4,Treasury,Sample Finding 729,Low,Personal trading,Employee Conduct,Open,8
+Auditor 4,Treasury,Sample Finding 730,High,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 4,Treasury,Sample Finding 731,Medium,Training,Training,Open,7
+Auditor 2,Treasury,Sample Finding 732,Medium,Training,Training,Closed,
+Auditor 1,Treasury,Sample Finding 733,Medium,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 2,Treasury,Sample Finding 734,High,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 3,Treasury,Sample Finding 735,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,5
+Auditor 4,Treasury,Sample Finding 736,Low,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 4,Treasury,Sample Finding 737,Low,Personal trading,Employee Conduct,Open,4
+Auditor 4,Treasury,Sample Finding 738,Low,Anti-bribery and corruption,Employee Conduct,Open,6
+Auditor 2,Treasury,Sample Finding 739,Medium,Personal conflicts of interest,Employee Conduct,Open,4
+Auditor 1,Treasury,Sample Finding 740,Low,Personal trading,Employee Conduct,Closed,
+Auditor 2,Treasury,Sample Finding 741,Low,Anti-bribery and corruption,Employee Conduct,Open,7
+Auditor 4,Treasury,Sample Finding 742,Low,Personal conflicts of interest,Employee Conduct,Open,5
+Auditor 4,Treasury,Sample Finding 743,Low,Personal trading,Employee Conduct,Open,3
+Auditor 2,Treasury,Sample Finding 744,Low,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 3,Treasury,Sample Finding 745,Low,Insider trading – confidential client information,Employee Conduct,Closed,
+Auditor 1,Treasury,Sample Finding 746,Low,Privacy,Regulatory Compliance,Open,8
+Auditor 4,Treasury,Sample Finding 747,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,5
+Auditor 2,Treasury,Sample Finding 748,Low,Unauthorized transactions / rogue trading,Market and Business Conduct,Open,4
+Auditor 2,Treasury,Sample Finding 749,High,Business conflicts of interest,Market and Business Conduct,Closed,
+Auditor 4,Treasury,Sample Finding 750,Low,Anti-bribery and corruption,Employee Conduct,Open,6
+Auditor 2,Treasury,Sample Finding 751,High,Personal trading,Employee Conduct,Open,7
+Auditor 4,Treasury,Sample Finding 752,Low,Insider trading – confidential client information,Employee Conduct,Open,7
+Auditor 1,Treasury,Sample Finding 753,High,Training,Training,Open,5
+Auditor 3,Treasury,Sample Finding 754,Medium,Training,Training,Open,4
+Auditor 2,Treasury,Sample Finding 755,Medium,Privacy,Regulatory Compliance,Closed,
+Auditor 2,Treasury,Sample Finding 756,Low,Whistleblower non-retaliation,Regulatory Compliance,Open,8
+Auditor 1,Treasury,Sample Finding 757,Low,Unauthorized transactions / rogue trading,Market and Business Conduct,Open,5
+Auditor 2,Treasury,Sample Finding 758,Low,Business conflicts of interest,Market and Business Conduct,Open,6
+Auditor 1,Treasury,Sample Finding 759,Low,Privacy,Regulatory Compliance,Closed,
+Auditor 1,Treasury,Sample Finding 760,Low,Whistleblower non-retaliation,Regulatory Compliance,Closed,
+Auditor 3,Treasury,Sample Finding 761,Low,Business conflicts of interest,Market and Business Conduct,Open,4
+Auditor 1,Treasury,Sample Finding 762,Low,Improper disclosures to clients,Client Practices,Closed,
+Auditor 4,Treasury,Sample Finding 763,Medium,Personal conflicts of interest,Employee Conduct,Open,6
+Auditor 4,Treasury,Sample Finding 764,Low,Personal trading,Employee Conduct,Open,4
+Auditor 4,Treasury,Sample Finding 765,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 1,Treasury,Sample Finding 766,Low,Insider trading – confidential client information,Employee Conduct,Open,3
+Auditor 3,Treasury,Sample Finding 767,High,Anti-bribery and corruption,Employee Conduct,Open,4
+Auditor 3,Treasury,Sample Finding 768,Low,Personal conflicts of interest,Employee Conduct,Open,9
+Auditor 1,Treasury,Sample Finding 769,Low,Personal trading,Employee Conduct,Open,6
+Auditor 1,Treasury,Sample Finding 770,Low,Insider trading – confidential firm information,Employee Conduct,Closed,
+Auditor 1,Treasury,Sample Finding 771,Low,Personal conflicts of interest,Employee Conduct,Closed,
+Auditor 2,Treasury,Sample Finding 772,High,Insider trading – confidential firm information,Employee Conduct,Open,9
+Auditor 2,Treasury,Sample Finding 773,Medium,Insider trading – confidential client information,Employee Conduct,Open,7
